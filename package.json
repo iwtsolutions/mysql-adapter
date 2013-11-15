@@ -7,7 +7,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "jugglingdb": ">= 0.2.x",
+    "jugglingdb": "=0.2.1",
     "mysql": ">= 2.0.0-alpha3"
   },
   "devDependencies": {
